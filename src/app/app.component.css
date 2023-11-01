@@ -1,0 +1,18 @@
+.formularioRegistro{
+  padding-left: 20%;
+  padding-right: 20%;
+  margin-top: 5%;
+}
+
+table {
+  width: 100%;
+}
+
+.example-button-row {
+  display: table-cell;
+  width: 490px;
+}
+
+#save{
+  margin-top: 15px;
+}
